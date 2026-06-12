@@ -1,10 +1,6 @@
 # Paralel Programlama Projesi Raporu
 ## Nokta-Poligon İçinde mi? – Java Thread'leri ile Paralel Çözüm
 
-**Öğrenci:** Ece Açar
-**Ders:** Paralel Programlama  
-**Tarih:** 12 Haziran 2026
-
 ## 1. Giriş ve Problem Tanımı
 
 Bu projede, **verilen x-y koordinat çiftleri** ile tanımlanan **konveks veya konkav** bir poligonun içinde bir noktanın bulunup bulunmadığını tespit eden bir program geliştirilmiştir. Çözüm, hem sıralı (sequential) hem de **Java Thread'leri kullanılarak paralel** olarak gerçekleştirilmiştir; elde edilen hızlanma (speedup) katsayıları karşılaştırmalı olarak sunulmuştur.
